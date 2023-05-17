@@ -58,7 +58,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 - This project was inspired by the need for an efficient meeting scheduling tool.
 - Special thanks to the creators and maintainers of React, Material-UI, and Tailwind CSS for their amazing tools and frameworks.
-
-## Contact
-
-For any questions or inquiries, please contact [Your Name](mailto:your-email@example.com).
