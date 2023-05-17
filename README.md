@@ -12,43 +12,31 @@ The Meeting Scheduler is a web application that allows two individuals to schedu
 
 ## Installation
 
-1. Clone the repository:
+### 1. Clone the repository:
 
-git clone https://github.com/your-username/meeting-scheduler.git
+- git clone https://github.com/your-username/meeting-scheduler.git
 
-css
-Copy code
+### 2. Navigate to the project directory:
 
-2. Navigate to the project directory:
+- cd meeting-scheduler
 
-cd meeting-scheduler
+### 3. Install the dependencies:
 
-markdown
-Copy code
+- npm install
 
-3. Install the dependencies:
+### 4. Start the development server:
 
-npm install
+- npm start
 
-markdown
-Copy code
-
-4. Start the development server:
-
-npm start
-
-less
-Copy code
-
-5. Open your web browser and visit `http://localhost:3000` to access the application.
+### 5. Open your web browser and visit `http://localhost:5173` to access the application.
 
 ## Usage
 
-1. Enter the duration of the meeting in minutes.
-2. Provide the working hour bounds for each person using the dropdown menus.
-3. Add any pre-planned meetings by clicking the "+" button and selecting the appropriate time range.
-4. Click the "Generate" button to view the available time slots for the meeting.
-5. The generated time slots will be displayed below the button.
+### 1. Enter the duration of the meeting in minutes.
+### 2. Provide the working hour bounds for each person using the dropdown menus.
+### 3. Add any pre-planned meetings by clicking the "+" button and selecting the appropriate time range.
+### 4. Click the "Generate" button to view the available time slots for the meeting.
+### 5. The generated time slots will be displayed below the button.
 
 ## Technologies Used
 
@@ -56,6 +44,7 @@ Copy code
 - Material-UI: UI component library for React
 - Tailwind CSS: Utility-first CSS framework
 - JavaScript: Programming language for web development
+- Vite: Fast and efficient development build tool, used to enhance the performance of the project.
 
 ## Contributing
 
