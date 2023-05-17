@@ -1,6 +1,6 @@
-# Meeting Scheduler
+# PlaiIt
 
-The Meeting Scheduler is a web application that allows two individuals to schedule a meeting based on their busy work schedules. The application takes into account the working hours and pre-planned meetings of both individuals and suggests available time slots for the meeting.
+PlanIt is a web application that allows two individuals to schedule a meeting based on their busy work schedules. The application takes into account the working hours and pre-planned meetings of both individuals and suggests available time slots for the meeting.
 
 ## Features
 
